@@ -1,0 +1,2 @@
+ETL - Extract Transform Load
+Extract - API, web scraping, etc
