@@ -4,6 +4,13 @@ This project will create a dataset by doing web scraping and store in a CSV file
 
 ## Installation
 
+requirement.txt file contains all the required python packages
+
+To install the requirements use the following cmd
+```bash
+pip install -r requirement.txt
+```
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all required packages.
 
 ```bash
