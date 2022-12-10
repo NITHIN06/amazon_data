@@ -1,2 +1,6 @@
 ETL - Extract Transform Load
 Extract - API, web scraping, etc
+
+provide a link to amazon web page of search results of req items
+
+From that link using requests module provided in python
