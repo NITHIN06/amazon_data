@@ -10,6 +10,7 @@ To install the requirements use the following cmd
 ```bash
 pip install -r requirement.txt
 ```
+or..
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all required packages.
 
